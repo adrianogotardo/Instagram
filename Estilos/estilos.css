@@ -332,6 +332,10 @@ button {
 .sugestao-user-name {
     width: 109px;
     height: auto;
+
+}
+video {
+    width: 614px;
 }
 
 /* ---------- RESPONSIVO 935PX ---------- */
@@ -428,5 +432,8 @@ button {
     }
     .posts div:first-child {
         margin-top: 0px;
+    }
+    video {
+        width: 100vw;
     }
 }
