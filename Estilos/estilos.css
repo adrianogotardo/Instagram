@@ -429,6 +429,7 @@ video {
     }
     .posts {
         margin-top: 0px;
+        width: 100vw;
     }
     .posts div:first-child {
         margin-top: 0px;
